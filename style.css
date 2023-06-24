@@ -36,6 +36,7 @@ p {
     color: black;
     font-size: 120px;
     margin: 10px 0;
+    text-align: center;
 }
 
 img {
@@ -110,6 +111,5 @@ img {
 
     p {
         font-size: 80px;
-        text-align: center;
     }
 }
